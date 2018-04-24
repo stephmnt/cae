@@ -17,3 +17,5 @@ github_username:  stephmnt
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-tactile
