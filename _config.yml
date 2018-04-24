@@ -6,15 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: Cause à Effet
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Cause à Effet, le magazine du travail, de l'emploi et de la formation sur Caue Commune, 93.1 en Île-de-France et <a targ="_blank" href="https://cause-commune.fm">cause-commune.fm</a> partout dans le monde.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://stephmnt.github.io" # the base hostname & protocol for your site
-twitter_username: stephanemanet
+url: "https://stephmnt.github.io/cae" # the base hostname & protocol for your site
+twitter_username: CauseAEffetCC
 github_username:  stephmnt
 
 # Build settings
