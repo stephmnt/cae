@@ -351,3 +351,6 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
+
+.feedEkList {list-style: none;}
+.feedEkList > li {float: left; margin:0 10px;}

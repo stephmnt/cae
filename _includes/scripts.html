@@ -8,6 +8,15 @@
 <script src="js/jquery.easing.min.js"></script>
 <script src="js/jquery.fittext.js"></script>
 <script src="js/wow.min.js"></script>
+<script src="js/feedek.js"></script>
 
 <!-- Custom Theme JavaScript -->
 <script src="js/creative.js"></script>
+
+<script>
+$('#podcastsrss').FeedEk({
+FeedUrl: 'https://cause-commune.fm/cae/cae.xml',
+MaxCount: 30,
+ShowDesc: false
+});
+</script>
