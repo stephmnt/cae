@@ -1,21 +1,14 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: Cause à Effet
-email: your-email@domain.com
+title:
+email:
 description: > # this means to ignore newlines until "baseurl:"
-  Cause à Effet, le magazine du travail, de l'emploi et de la formation sur Caue Commune, 93.1 en Île-de-France et <a targ="_blank" href="https://cause-commune.fm">cause-commune.fm</a> partout dans le monde.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://stephmnt.github.io/cae" # the base hostname & protocol for your site
-twitter_username: CauseAEffetCC
-github_username:  stephmnt
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# Full urls
+twitter_username:
+github_project:
+gitlab_project:
 
 # Build settings
 markdown: kramdown
-
-theme: jekyll-theme-tactile
