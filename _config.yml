@@ -1,14 +1,15 @@
 # Site settings
-title:
-email:
+title: Cause à Effet
+email: contact@causecommune.fm
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "/cae" # the subpath of your site, e.g. /blog/
+url: "https://stephma.net" # the base hostname & protocol for your site
+
+twitter_username: causeaeffetcc
 
 # Full urls
-twitter_username:
-github_project:
-gitlab_project:
+github_url: https://github.com/stephmnt/cae
+gitlab_url: https://git.libre-a-toi.org/stephmnt/cae
 
 # Build settings
 markdown: kramdown
