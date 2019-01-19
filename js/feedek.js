@@ -19,7 +19,7 @@
         var id = $(this).attr("id"), i, s = "", dt;
         $("#" + id).empty();
         if (def.FeedUrl == undefined) return;
-        $("#" + id).append('<img src="/img/loader.gif" />');
+        $("#" + id).append('<p class="text-center">Retrouvez tous nos podcasts sur le site de Cause Commune. Ils sont disponible en libre écoute et en téléchargement, via licence Creative Commons (by-nd-nc).</p>');
 
         var YQLstr = 'SELECT channel.item FROM feednormalizer WHERE output="rss_2.0" AND url ="' + def.FeedUrl + '" LIMIT ' + def.MaxCount;
 
